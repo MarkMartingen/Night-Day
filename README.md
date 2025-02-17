@@ -1,2 +1,2 @@
 # Night-Day
-fun project 
+I was always interested how to determine the duration of daylight on particular days of the year given some latitude. One can easily find procedures or formulas for this on the Internet. However, these tend to come with liitle or no explanations. This obejctive of this fun project is to come up with a straightforward, basic mathematical model of daylight duration given time of year and latitude. 
